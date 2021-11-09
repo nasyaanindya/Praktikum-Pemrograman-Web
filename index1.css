@@ -1,0 +1,10 @@
+.kepala {
+    display:flex;
+    gap: 10px 100px;
+    justify-content:space-around;
+}
+.kaki{
+    display:flex;
+    gap: 10px 100px;
+    justify-content:space-around;
+}
